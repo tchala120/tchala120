@@ -15,7 +15,6 @@
 
 <br>
 <br>
-<br>
 
 - 👀 I’m interested in Fullstack Developer, UX/UI Designer
 - 🌱 I’m currently learning about discord bot and more about website developer
