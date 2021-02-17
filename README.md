@@ -1,4 +1,9 @@
-**👋 Hi, I’m @tchala120**
+#👋 Hi, I’m @tchala120
+
+Welcome to my page!
+I'm Thomas, Fullstack developer from  Bangkok, Thailand, I’m currently working at Krungsri Consumer as an intern.
+<br>
+<br>
 
 <a href="https:https://www.patreon.com/devtoon">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/patreon.svg" />
