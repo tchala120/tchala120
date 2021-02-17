@@ -1,4 +1,4 @@
-<h1 class="center">**👋 Hi, I’m @tchala120**</h1>
+**👋 Hi, I’m @tchala120**
 
 <a href="https:https://www.patreon.com/devtoon">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/patreon.svg" />
