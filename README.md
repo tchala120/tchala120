@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tchala120
 - 👀 I’m interested in Fullstack Developer, UX/UI Designer
 - 🌱 I’m currently learning about discord bot and more about website developer
-- 📫 How to reach me [GitHub](http://github.com) [Instagram](https://www.instagram.com/itstoon.p/)
+- 📫 How to reach me [GitHub](http://github.com),  [Instagram](https://www.instagram.com/itstoon.p/)
 
 <!---
 tchala120/tchala120 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
