@@ -22,8 +22,7 @@ I'm Thomas, Fullstack developer from  Bangkok, Thailand, I’m currently working
 <br>
 
 - 👀 I’m interested in Fullstack Developer, UX/UI Designer
-- 🌱 I’m currently working at Krungsri Consumer as a intern. 👶
-- 😎 I'm currently building a discord bot about economy and more usefully.
+- 🌱 I’m currently working at Krungsri Consumer as a intern 👶, and try to building a discord bot about economy and more usefully 🤖.
 - 📫 How to reach me [GitHub](https://github.com/tchala120),  [Instagram](https://www.instagram.com/itstoon.p)(about my photography 📸)
 
 <!---
