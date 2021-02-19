@@ -5,16 +5,16 @@ I'm Thomas, Fullstack developer from  Bangkok, Thailand, I’m currently working
 <br>
 <br>
 
-<a href="https:https://www.patreon.com/devtoon" target="_blank">
+<a href="https://www.patreon.com/devtoon">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/patreon.svg" />
 </a>
-<a href="https://www.linkedin.com/in/panupong-tipjoi-464986175/" target="_blank">
+<a href="https://www.linkedin.com/in/panupong-tipjoi-464986175/">
   <img align="left" alt="Panupong Tipjoi" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/31hqwf2z4k3uhyw7vcjlvgyusgqy" target="_blank">
+<a href="https://open.spotify.com/user/31hqwf2z4k3uhyw7vcjlvgyusgqy">
   <img align="left" alt="Panupong Tipjoi" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-<a href="https://ko-fi.com/thetoon" target="_blank">
+<a href="https://ko-fi.com/thetoon">
   <img align="left" alt="Panupong Tipjoi" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/ko-fi.svg" />
 </a>
 
