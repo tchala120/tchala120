@@ -1,7 +1,7 @@
 <h1>👋 Hi, I’m @tchala120</h1>
 
 Welcome to my page!
-I'm Thomas, Fullstack developer from  Bangkok, Thailand, I’m currently working at Krungsri Consumer as an intern.
+I'm Toon, Fullstack developer from  Bangkok, Thailand, I’m currently working at Krungsri Consumer as an intern.
 <br>
 <br>
 
