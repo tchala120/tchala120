@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m @tchala120</h1>
+<h1>👋 Hi, I’m Toon</h1>
 
 Welcome to my page!
 I'm Toon, Fullstack developer from  Bangkok, Thailand, I’m currently working at Krungsri Consumer as an intern.
