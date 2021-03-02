@@ -24,7 +24,7 @@ I'm Toon, Fullstack developer from  Bangkok, Thailand, I’m currently working a
 - 👀 I’m interested in Fullstack Developer, UX/UI Designer
 - 🌱 I’m currently working at Krungsri Consumer as a intern 👶, and building a discord bot about economy and more usefully 🤖 for my free times.
 - 📫 How to reach me [GitHub](https://github.com/tchala120),  [Instagram](https://www.instagram.com/itstoon.p)(about my photography 📸)
-- 👨 I love how people give me advice on things that go wrong to improve myself.
+- 👨 I love how people give me an advice on things that go wrong to improve myself.
 
 <!---
 tchala120/tchala120 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
