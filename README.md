@@ -15,7 +15,7 @@ I’m currently working at Krungsri Consumer as an intern.
   <img align="left" alt="Panupong Tipjoi" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 <a href="https://ko-fi.com/thetoon">
-  <img align="left" alt="Panupong Tipjoi" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/ko-fi.svg" />
+  <img align="left" alt="Panupong Tipjoi" width="22px" src="https://storage.ko-fi.com/cdn/Kofi_Logo_Blue.svg" />
 </a>
 
 <br>
