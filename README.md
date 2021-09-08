@@ -1,7 +1,7 @@
 <h1>👋 Hi, I’m Toon</h1>
 
 Welcome to my page!
-I’m currently working at Krungsri Consumer as an intern.
+I'm currently pursuing my bachelor's degree in computer science at KMITL.
 <br>
 <br>
 
@@ -21,9 +21,9 @@ I’m currently working at Krungsri Consumer as an intern.
 <br>
 <br>
 
-- 👀 I’m interested in Fullstack Developer, UX/UI Designer
+- 👀 I’m interested in Frontend Developer, UX/UI Designer
 - 🌱 I’m currently working at Krungsri Consumer as an intern 👶, and building a discord bot about economy and other useful related content 🤖 for my free times.
-- 📫 How to reach me [GitHub](https://github.com/tchala120),  [Instagram](https://www.instagram.com/itstoon.p)(about my photography 📸)
+- 📫 How to reach me [Personal Website](https://thetoon.vercel.app),  [Instagram](https://www.instagram.com/itstoon.p)(about my photography 📸)
 - 👨 I would love for people to give me advice in order to improve my content.
 <!---
 tchala120/tchala120 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
