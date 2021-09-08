@@ -22,7 +22,6 @@ I'm currently pursuing my bachelor's degree in computer science at KMITL.
 <br>
 
 - 👀 I’m interested in Frontend Developer, UX/UI Designer
-- 🌱 I’m currently working at Krungsri Consumer as an intern 👶, and building a discord bot about economy and other useful related content 🤖 for my free times.
 - 📫 How to reach me [Personal Website](https://thetoon.vercel.app),  [Instagram](https://www.instagram.com/itstoon.p)(about my photography 📸)
 - 👨 I would love for people to give me advice in order to improve my content.
 <!---
