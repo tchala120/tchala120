@@ -1,6 +1,7 @@
 <h1>👋 Hi, I’m Toon</h1>
 
-Welcome to my page!
+**Welcome to my page!**
+<br>
 I am currently pursuing my Bachelor of Computer Science at KMITL in Thailand.
 <br>
 <br>
