@@ -15,12 +15,11 @@ I am currently pursuing my Bachelor of Computer Science at KMITL in Thailand.
 <a href="https://open.spotify.com/user/31hqwf2z4k3uhyw7vcjlvgyusgqy">
   <img align="left" alt="Panupong Tipjoi" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-<a href="https://ko-fi.com/thetoon">
-  <img align="left" alt="Panupong Tipjoi" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/kofi.svg" />
-</a>
 
 <br>
 <br>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D73OCXD)
 
 - 👀 I’m interested in Frontend Developer, UX/UI Designer
 - 📫 How to reach me [Personal Website](https://thetoon.vercel.app),  [Instagram](https://www.instagram.com/itstoon.p)(about my photography 📸)
