@@ -16,7 +16,7 @@ I am currently pursuing my Bachelor of Computer Science at KMITL in Thailand.
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D73OCXD)
 
 - 👀 I’m interested in Frontend Developer, UX/UI Designer
-- 📫 How to reach me [Personal Website](https://thetoon.vercel.app),  [Instagram](https://www.instagram.com/itstoon.p)(about my photography 📸)
+- 📫 How to reach me [Personal Website](https://panupong.io),  [Instagram](https://www.instagram.com/itstoon.p)(about my photography 📸)
 - 👨 I would love for people to give me advice in order to improve my content.
 <!---
 tchala120/tchala120 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
