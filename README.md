@@ -2,7 +2,7 @@
 
 **Welcome to my page!**
 <br>
-I am currently pursuing my Bachelor of Computer Science at KMITL in Thailand.
+React lover.
 <br>
 <br>
 
