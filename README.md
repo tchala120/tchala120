@@ -16,7 +16,7 @@ React lover.
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D73OCXD)
 
 - 👀 I’m interested in Frontend Developer, UX/UI Designer
-- 📫 How to reach me [Personal Website](https://panupong.io),  [Instagram](https://www.instagram.com/itstoon.p)(about my photography 📸)
+- 📫 You can reach me at my [Personal Website](https://panupong.io), My [instagram](https://www.instagram.com/itstoon.p)(about my photography 📸)
 - 👨 I would love for people to give me advice in order to improve my content.
 <!---
 tchala120/tchala120 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
