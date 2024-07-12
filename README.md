@@ -7,7 +7,7 @@ React lover.
 <br>
 
 <a href="https://www.linkedin.com/in/panupong-tipjoi-464986175/">
-  <img align="left" alt="Panupong Tipjoi" width="22px" src="https://camo.githubusercontent.com/00974afc84e6984c98cb5c971879e88b31387aa90f1f91795586266a48d2ed88/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f6c696e6b6564696e" />
+  <img align="left" alt="Panupong Tipjoi" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 
 <br>
