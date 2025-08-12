@@ -13,8 +13,6 @@ React lover.
 <br>
 <br>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D73OCXD)
-
 - 👀 I’m interested in Frontend Developer, UX/UI Designer
 - 📫 You can reach me at my [Personal Website](https://panupong.io), My [instagram](https://www.instagram.com/itstoon.p)(about my photography 📸)
 - 👨 I would love for people to give me advice in order to improve my content.
